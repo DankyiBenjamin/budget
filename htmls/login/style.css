@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    /* display: inline; */
+}
+#Form{
+    position: relative;
+    padding: 10px;
+    width: 50%;
+    height: 50%;
+    left: 30%;
+    top: 50%;
+}
+button{
+    border-radius: 1px ;
+    position: relative;
+    left: 70%;
+}
+input{
+    margin: 5px;
+}
+#header{
+    position: relative;
+    /* left: 50%; */
+   
+}
+#lead{
+    display: inline;
+}
